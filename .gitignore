@@ -1,0 +1,33 @@
+################################################################################
+#                                                                              #
+# .gitignore file that defines ignored files on commits                        #
+#                                                                              #
+################################################################################
+
+## Project specific:
+
+
+
+## IDEs
+### NetBeans
+/nbproject/
+### jetbrains editors; PyCharm / phpStorm / webstorm / ..
+.idea
+### Sublime
+*sublime
+
+### Wakatime
+.wakatime-project
+
+### var:
+.htaccess
+.DS_Store
+.DS_Store?
+.Trashes
+Icon?
+Thumbs.db
+*.TODO
+.project
+
+
+
